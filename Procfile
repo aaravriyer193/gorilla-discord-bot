@@ -1,1 +1,1 @@
-worker: python discord_agent.py
+worker: python app.py
