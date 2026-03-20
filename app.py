@@ -10,7 +10,7 @@ load_dotenv()
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-MODEL = "xiaomi/mimo-v2-flash" 
+MODEL = "xiaomi/mimo-v2-flash:online" 
 
 SIGNATURE = """
 
